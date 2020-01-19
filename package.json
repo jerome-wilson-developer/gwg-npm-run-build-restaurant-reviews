@@ -1,0 +1,19 @@
+{
+  "name": "5.gwg-npm-run-build-restaurant-reviews-jan2019",
+  "version": "1.0.0",
+  "description": "The link to view this app: https://drjwebsitedesign.github.io/mws-restaurant-stage-1/\r ---\r #### _Three Stage Course Material Project - Restaurant Reviews_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerome-wilson-developer/gwg-npm-run-build-restaurant-reviews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerome-wilson-developer/gwg-npm-run-build-restaurant-reviews/issues"
+  },
+  "homepage": "https://github.com/jerome-wilson-developer/gwg-npm-run-build-restaurant-reviews#readme"
+}
